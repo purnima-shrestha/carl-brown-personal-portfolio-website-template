@@ -19,5 +19,4 @@ JQuery Plugins
 Swiper Slider - https://swiperjs.com/
 AOS - https://michalsnik.github.io/aos/
 
-Thanks for downloading from TemplatesJungle.com !
 
