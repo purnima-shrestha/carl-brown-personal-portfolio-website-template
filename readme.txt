@@ -1,5 +1,6 @@
 Demo here:
-https://demo.templatesjungle.com/carl/
+https://templatesjungle.com/downloads/carl-free-bootstrap-5-html-website-template-for-portfolio/
+
 
 CREDITS & REFERENCES
 
